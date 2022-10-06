@@ -1,0 +1,22 @@
+export const data=[
+    {
+        id:1,
+        image:'https://img.freepik.com/free-photo/winter-palace-in-saint-petersburg_1398-2675.jpg?w=1060&t=st=1665043837~exp=1665044437~hmac=c354e84e007d712c8f0d9e02e61db8583a057850e637b21b8d9cae9f328b4981'
+    },
+    {
+        id:2,
+        image:'https://img.freepik.com/free-photo/saint-isaac-s-cathedral-in-st-petersburg_1398-2678.jpg?w=900&t=st=1665043840~exp=1665044440~hmac=c3b3c94c50971a890472f5b083df765bf3731a872cbc8ce72d89c566a8daed8d'
+    },
+    {
+        id:3,
+        image:'https://img.freepik.com/free-photo/equestrian-statue-of-peter-the-great_1398-2716.jpg?w=900&t=st=1665043852~exp=1665044452~hmac=815654aa4f371b2e7ed2c31806e242b8fbdb2dce523be0d787089bc7bcbbc2e0'
+    },
+    {
+        id:4,
+        image:'https://img.freepik.com/premium-photo/the-palace-bridge-and-the-kunstkamera-museum-at-night-on-the-neva-river-in-st-petersburg_165577-1334.jpg?w=900'
+    },
+    {
+        id:5,
+        image:'https://img.freepik.com/premium-photo/st-petersburg-russia-october-11-2015-tourists-in-the-street-at-kazan-cathedral-in-st-petersburg-in-russia_250132-25154.jpg?w=900'
+    }
+]

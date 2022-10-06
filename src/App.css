@@ -1,0 +1,30 @@
+body{
+  background-color: #B4CDE6;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+.image-container{
+  display: flex;
+}
+button{
+  background-color: #B4CDE6;
+  border: none;
+  cursor: pointer;
+}
+.btn{
+  border: 2px solid #DBC8AC;
+  background-color: #EDDBC0;
+  border-radius: 10px;padding: 5px;
+}
+.btn-all{
+  margin-top: 20px;
+}
+.restaurans{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
